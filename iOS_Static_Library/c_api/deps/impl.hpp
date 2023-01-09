@@ -7,3 +7,5 @@
 #pragma once
 
 int compute_result(float x);
+
+int compute_result_dummy(float x);

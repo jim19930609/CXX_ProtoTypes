@@ -13,3 +13,7 @@ int compute_result(float x) {
     double z = static_cast<double>(x);
     return compute_result2(z);
 }
+
+int compute_result_dummy(float x) {
+    return static_cast<int>(x);
+}
